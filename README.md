@@ -83,3 +83,8 @@ Project Link: https://github.com/KushiHarish/scream_guard_project
 Developer-2
 Lekhana Bhat - bhatlekhana2004@gmail.com
 also find in : Lekhana-bhat-2004/github.com
+
+## 📊 Sample Output
+
+Here's a sample output of the scream detection system:
+![Output Sample](images/sample_output.png)
